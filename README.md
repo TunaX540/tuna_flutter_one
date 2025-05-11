@@ -1,16 +1,11 @@
-# tuna_flutter_one
+# tuna_flutter_one Project
 
-A new Flutter project.
+This is UI screen for Welcome, Login and Signup
 
-## Getting Started
+Adding feeatures of swapping between these 3
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/user-attachments/assets/8426e452-e447-4395-b615-8924a1d30008" width="200">
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/user-attachments/assets/4663a8a4-fdb3-4b27-a6e2-374e5d12177a" width="200">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/user-attachments/assets/cdf1b3ef-7408-4aa7-b3f9-ea72e012ac08" width="200">
