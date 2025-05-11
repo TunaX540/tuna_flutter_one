@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:tuna_flutter_one/views/login_ui.dart';
+import 'package:tuna_flutter_one/views/signup_ui.dart';
 import 'package:tuna_flutter_one/views/welcome_ui.dart';
 
 void main() {
@@ -19,7 +20,7 @@ class _TunaFlutterOneState extends State<TunaFlutterOne> {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: LoginUI(),
+      home: WelcomeUI(),
       theme: ThemeData(
         textTheme: GoogleFonts.itimTextTheme(
           Theme.of(context).textTheme,
